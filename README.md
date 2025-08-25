@@ -7,8 +7,8 @@ Desynced is a comprehensive script hub that supports multiple experiences on the
 🔗 **Community & Resources**
 
 * Discord: [Join our server](https://discord.gg/qXp6nv3pKk)  
-* Website: [ERV Community](https://ervcommunity.com/)
-* Shop: [Premium keys](https://desynced404.mysellauth.com/)
+* Website: [Check out our website](https://ervcommunity.com/)
+* Shop: [Purchase keys](https://desynced404.mysellauth.com/)
 
 ## Quick Script Loader
 
