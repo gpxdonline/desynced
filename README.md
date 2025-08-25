@@ -12,12 +12,10 @@ Desynced is a comprehensive script hub that supports multiple experiences on the
 
 ## Quick Script Loader
 
-Execute Desynced instantly by copying the line below into your Roblox executor:
+Just copy the code below and paste it into your executor to start using Desynced immediately!
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/gpxdonline/desynced/refs/heads/main/loader.lua", true))()
 ````
-
-Just copy the code above and paste it into your executor to start using Desynced immediately!
 
 Thank you for your interest and support!
