@@ -6,7 +6,18 @@ Desynced is a comprehensive script hub that supports multiple experiences on the
 
 🔗 **Community & Resources**
 
-* Discord: [Join our server](https://discord.gg/qXp6nv3pKk)
-* Website: [ervcommunity.com](https://ervcommunity.com/)
+* Discord: [Join our server](https://discord.gg/qXp6nv3pKk)  
+* Website: [ERV Community](https://ervcommunity.com/)
+* Shop: [Premium keys](https://desynced404.mysellauth.com/)
+
+## Quick Script Loader
+
+Execute Desynced instantly by copying the line below into your Roblox executor:
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gpxdonline/desynced/refs/heads/main/loader.lua", true))()
+````
+
+Just copy the code above and paste it into your executor to start using Desynced immediately!
 
 Thank you for your interest and support!
